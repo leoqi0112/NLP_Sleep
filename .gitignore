@@ -1,2 +1,6 @@
+# Ignore everything in data/ and output/
+data/
+output/
+
 !data/.gitkeep
 !output/.gitkeep
